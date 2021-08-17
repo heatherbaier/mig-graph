@@ -1,0 +1,10 @@
+archive
+old_data
+grid
+mxfls
+origin_shp
+test_imagery
+var_maps
+flow_shp
+.ipynb_checkpoints/
+__pycache__/
