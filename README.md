@@ -1,4 +1,4 @@
-# mig-graph
+# US-MX Cross-Border Migration Temporal GNN
 
 
 ### Order of files to recreate data prep
@@ -19,7 +19,7 @@
 - Comparison of Border Patrol Stations - https://www.jstor.org/stable/pdf/10.7249/j.ctt3fgzws.12.pdf
 - U.S. Border stations - https://www.cbp.gov/border-security/along-us-borders/border-patrol-sectors
 - Border Sector Statistics - https://www.cbp.gov/newsroom/media-resources/stats?page=1
-- # of Encoutners by fiscal year (back to 1970's) - https://www.cbp.gov/sites/default/files/assets/documents/2021-Aug/US59B8~1.PDF
+- Number of Encounters by fiscal year (back to 1970's) - https://www.cbp.gov/sites/default/files/assets/documents/2021-Aug/US59B8~1.PDF
 - Apprehensions - https://www.cbp.gov/sites/default/files/assets/documents/2021-Aug/U.S.%20Border%20Patrol%20Monthly%20Encounters%20%28FY%202000%20-%20FY%202020%29%20%28508%29.pdf
 - Apprehensions by Citizenship & Sector - https://www.cbp.gov/sites/default/files/assets/documents/2021-Aug/USBORD~3.PDF
 - Interactive border sectors map - https://www.americanpatrol.com/ABP/SURVEYS/BORDER-2009/Border-Main-20009.html

@@ -7,3 +7,8 @@ test_imagery
 flow_shp
 .ipynb_checkpoints/
 __pycache__/
+flows
+indiv_flows
+LAMP_data
+places
+
